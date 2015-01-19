@@ -99,7 +99,7 @@ class MyTopo( Topo ):
         self.addLink(s0,s3)
         self.addLink(s2,s4)
         self.addLink(s5,s7)
-        self.addLink(s4,s6)
+        self.addLink(s3,s6)
         self.addLink(s8,s9)
         self.addLink(s10,s11)
         self.addLink(s12,s13)
